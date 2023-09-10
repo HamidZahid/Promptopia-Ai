@@ -1,0 +1,15 @@
+NextJS Course 
+Default Components are Server Side
+to make them client side just user on the top of page 
+"use client";
+SSR server side rendering.
+SSG server side generation.
+ISR Incremental static generation.
+next js support the following http functions
+get
+post
+patch
+put
+delete
+head
+options 
